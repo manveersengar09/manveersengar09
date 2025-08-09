@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I read books**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://instagram.com/manveer_singh_rajput.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manveer_singh_rajput.__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@manveer_singh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manveer_singh09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manveersingh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manveersingh09" height="30" width="40" /></a>
